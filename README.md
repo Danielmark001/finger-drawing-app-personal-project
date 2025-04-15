@@ -2,6 +2,9 @@
 
 This application uses your webcam to detect hand gestures, allowing you to draw with your index finger and erase with your palm. It features a real-time drawing canvas that responds to natural hand movements.
 
+
+https://github.com/user-attachments/assets/66dd2cf0-5b3a-43f4-bef0-4100735eb271
+
 ## Features
 
 - Real-time finger tracking using MediaPipe
@@ -68,6 +71,7 @@ You can also use the provided launcher scripts:
 To verify your setup is working correctly, run the test utility:
 ```
 python test_utils.py
+python enhanced_app.py
 ```
 
 This will test your webcam, hand detection, and drawing functionality separately.
