@@ -2,6 +2,10 @@
 
 A webcam-based drawing application that lets you create art using hand gestures. Draw with your index finger, erase with your palm, and interact with a digital canvas - all without touching your computer.
 
+
+https://github.com/user-attachments/assets/d71576cf-baa4-4a73-8711-e3b92133c618
+
+
 ## Features
 
 - Draw by simply pointing your index finger at the camera
